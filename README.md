@@ -149,12 +149,15 @@ This project uses the **LMSYS-Chat-1M dataset**:
 
 **Citation:**
 ```bibtex
-@inproceedings{zheng2024lmsyschat1m,
-  title={LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset},
-  author={Zheng, Lianmin and Chiang, Wei-Lin and Sheng, Ying and others},
-  booktitle={ICLR},
-  year={2024}
+@misc{zheng2023lmsyschat1m,
+      title={LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset}, 
+      author={Lianmin Zheng and Wei-Lin Chiang and Ying Sheng and Tianle Li and Siyuan Zhuang and Zhanghao Wu and Yonghao Zhuang and Zhuohan Li and Zi Lin and Eric. P Xing and Joseph E. Gonzalez and Ion Stoica and Hao Zhang},
+      year={2023},
+      eprint={2309.11998},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
+
 ```
 
 ## ⚙️ Configuration
